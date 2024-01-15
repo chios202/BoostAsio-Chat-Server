@@ -7,4 +7,5 @@ Boost dependecy is required in order for this application to work, you can follo
   - mkdir build && cd build
   - cmake ..
   - make
-    
+
+  **How to run:**
