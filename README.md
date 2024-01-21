@@ -9,3 +9,5 @@ Boost dependecy is required in order for this application to work, you can follo
   - make
 
   **How to run:**
+  After you have built your project, you can follow the next steps:
+    1. Start the server 
