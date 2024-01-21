@@ -12,6 +12,6 @@ Boost dependecy is required in order for this application to work, you can follo
   
   After you have built your project, you can follow the next steps:
 
-    1. Start the server with ./server, now it can start listening for incoming connections
-    2. Start one or more clients with ./client your_username
+    1. Start the server with `./server`. Now it can start listening for incoming connections.
+    2. Start one or more clients with `./client {your_username}`.
    
